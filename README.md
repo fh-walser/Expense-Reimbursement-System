@@ -75,7 +75,7 @@ To-do list:
     2. Click All Past Submissions on the navigation bar to see a complete record of all approved/denied submissions to date
     ![Screenshot from 2021-12-09 06-31-46](https://user-images.githubusercontent.com/92759483/145388903-cac92f80-39f7-41e4-ac38-343eb632f457.png)
 
-    3. As with any other employee, choose Submit Reimbursements, Past Submissions or Pending submissions to see the Manager own record of expense claims
+    3. As with any other employee, choose Submit Reimbursements, Past Submissions or Pending submissions to see the Manager's own personal record of expense claims or to file a new claim
     
     4. Click Logout to log out
 
