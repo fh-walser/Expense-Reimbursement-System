@@ -8,14 +8,17 @@ and pending requests. Finance managers can log in and view all reimbursement req
 in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 ## Techonologies Used
-* Hibernate version ???
-* MySql version 5.5?
-* Java 17?
+* Hibernate Core version 5.6.1
+* MySql version 8.0.27
+* MySql Connector Java 8.0.26
+* Java 17
 * JavaServer Pages
+* Javax Servlet API version 4.0.1
 * HTML5
 * Bootstrap version 4.6.1
 * JQuery
 * Tomcat Web Server version 9
+* Maven version 3.8.1
 
 ## Features
 Available features:
