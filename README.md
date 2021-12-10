@@ -82,6 +82,6 @@ To-do list:
 * Ian Mitchell
 
 ## License
-This project uses the following license: 
+This project uses the following license: MIT License(https://github.com/fh-walser/Expense-Reimbursement-System/blob/master/LICENSE)
 
 
