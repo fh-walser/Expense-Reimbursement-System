@@ -1,6 +1,4 @@
-# Project 1
-
-## Expense Reimbursement System (ERS)
+# Expense Reimbursement System (ERS)
 
 The Expense Reimbursement System (ERS) manages the process of reimbursing employees for expenses incurred while on
 company time. All employees in the company can login and submit requests for reimbursement and view their past tickets
@@ -80,7 +78,10 @@ To-do list:
     4. Click Logout to log out
 
 ## Contributors
-* Frank Walser - front end and servlet development
-* Ian Mitchell - back end JDBC and Hibernate implementation
+* Frank Walser
+* Ian Mitchell
+
+## License
+This project uses the following license: 
 
 
